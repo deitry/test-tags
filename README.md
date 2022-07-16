@@ -1,0 +1,1 @@
+test maximum tags number
